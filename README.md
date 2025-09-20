@@ -6,8 +6,8 @@ Welcome to your mission as a **Responsible AI Inspector**! In this project, you�
 **Student: Geoffrey Ominde**
 
  **Project Overview**
-
 Welcome to your mission as a Responsible AI Inspector! In this project, you investigate AI systems in real-world scenarios, spot potential issues, and suggest improvements to make AI safer, fairer, and more transparent.
+
 
 **Scenario 1: Hiring Bot**
 
@@ -21,8 +21,8 @@ HireSmart tends to reject female applicants with career gaps — often due to ma
 Anonymize career gaps and add a bias-detection layer. This way, the AI focuses on skills and achievements, not gender or life events.
 
 **Blog-style snippet:**
-
 Imagine an AI recruiter with tunnel vision. It doesn’t see potential, only gaps. Jane took a year off to care for her baby — and suddenly HireSmart thinks she’s “less qualified.” Our fix? Teach the AI to judge skills, not stereotypes. Let’s make hiring fairer, one algorithm at a time!
+
 
 **Scenario 2: School Proctoring AI**
 
@@ -36,8 +36,8 @@ Neurodivergent students blink or glance differently and get flagged unfairly. Th
 Add a manual review step and adjust thresholds to account for neurodiversity. AI should assist teachers, not replace judgment.
 
 **Blog-style snippet:**
-
 Our AI eye spy might have a blind spot. Neurodivergent students blink differently — and suddenly, the system cries “Cheater!” That’s not justice. By letting teachers review alerts and tweaking the AI for diversity, we turn suspicion into smart support.
+
 ---
 
 ## 🎯 Project Goal
