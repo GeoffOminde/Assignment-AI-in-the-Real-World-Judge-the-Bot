@@ -2,48 +2,40 @@
 
 Welcome to your mission as a **Responsible AI Inspector**! In this project, you’ll investigate how AI is being used in real-life scenarios, spot potential issues, and suggest improvements to make AI safer, fairer, and more transparent.
 ## Assignment Submission
-# Responsible AI Inspector 🕵️‍♂️
+**Responsible AI Inspector 🕵️‍♂️**
+**Student: Geoffrey Ominde**
 
-# Student: Geoffrey Ominde
-
-# Project Overview
+ **Project Overview**
 
 Welcome to your mission as a Responsible AI Inspector! In this project, you investigate AI systems in real-world scenarios, spot potential issues, and suggest improvements to make AI safer, fairer, and more transparent.
 
-# Mission Objectives:
+**Scenario 1: Hiring Bot**
 
-  1. Describe what an AI system is doing.
-  2. Identify potential problems (bias, privacy, accountability, transparency).
-  3. Suggest one actionable improvement.
-  4. Bonus: Present your findings in a fun, blog-style write-up.
-
-# Scenario 1: Hiring Bot
-
-# What’s happening:
+ **What’s happening:**
 Meet “HireSmart,” an AI that screens resumes and ranks applicants for job interviews. It scans CVs, checks keywords, and assigns scores based on experience and education.
 
-# What’s problematic:
+**What’s problematic:**
 HireSmart tends to reject female applicants with career gaps — often due to maternity leave. That’s a bias baked into the algorithm! Fairness? Not really. Privacy? Career breaks are sensitive info. Accountability? If someone gets rejected unfairly, no human is checking the AI.
 
-# Improvement idea:
+**Improvement idea:**
 Anonymize career gaps and add a bias-detection layer. This way, the AI focuses on skills and achievements, not gender or life events.
 
-# Blog-style snippet:
+**Blog-style snippet:**
 
 Imagine an AI recruiter with tunnel vision. It doesn’t see potential, only gaps. Jane took a year off to care for her baby — and suddenly HireSmart thinks she’s “less qualified.” Our fix? Teach the AI to judge skills, not stereotypes. Let’s make hiring fairer, one algorithm at a time!
 
-# Scenario 2: School Proctoring AI
+**Scenario 2: School Proctoring AI**
 
-# What’s happening:
+**What’s happening:**
 “TestEye” monitors students’ eye movements during exams to flag potential cheating. Quick glance sideways? Suspicious. Frequent blinking? Suspicious.
 
-# What’s problematic:
+**What’s problematic:**
 Neurodivergent students blink or glance differently and get flagged unfairly. That’s not just unfair — it can affect grades and stress levels. Accountability is shaky — a student could be penalized without human review. Privacy? Constant eye monitoring feels intrusive.
 
-# Improvement idea:
+**Improvement idea:**
 Add a manual review step and adjust thresholds to account for neurodiversity. AI should assist teachers, not replace judgment.
 
-# Blog-style snippet:
+**Blog-style snippet:**
 
 Our AI eye spy might have a blind spot. Neurodivergent students blink differently — and suddenly, the system cries “Cheater!” That’s not justice. By letting teachers review alerts and tweaking the AI for diversity, we turn suspicion into smart support.
 ---
